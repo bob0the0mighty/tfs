@@ -7,8 +7,7 @@
     "tfs": "./bin/tfs"
   },
   "scripts": {
-    "start": "node ./bin/tfs",
-    "test": "grunt test"
+    "start": "node ./bin/tfs"
   },
   "repository": {
     "type": "git",
@@ -32,9 +31,6 @@
     "commander": "^2.9.0"
   },
   "devDependencies": {
-    "mocha": "^3.2.0",
-    "grunt": "~0.4.1",
-    "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-nodeunit": "~0.2.0"
+    "mocha": "^3.2.0"
   }
 }
