@@ -1,7 +1,7 @@
 # tfs
 **NodeJS wrapper for TFS command line tool.**
 
-[![Build Status](https://travis-ci.org/ivangabriele/tfs.svg?branch=master)](https://travis-ci.org/ivangabriele/tfs)
+[![Build Status](https://travis-ci.org/bob0the0mighty/tfs.svg?branch=master)](https://travis-ci.org/ivangabriele/tfs)
 [![npm version](https://badge.fury.io/js/tfs.svg)](https://badge.fury.io/js/tfs)
 [![dependencies Status](https://david-dm.org/ivangabriele/tfs/status.svg)](https://david-dm.org/ivangabriele/tfs)
 [![devDependencies Status](https://david-dm.org/ivangabriele/tfs/dev-status.svg)](https://david-dm.org/ivangabriele/tfs?type=dev)
